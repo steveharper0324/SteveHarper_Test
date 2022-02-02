@@ -6,7 +6,7 @@ This test was created on February 2, 2022
 - 👀 I’m interested in learning more about GitHub
 - 🌱 I’m currently learning GitHub, SQL, RPG/Free....
 - 💞️ I’m looking to collaborate on all of the above
-- 📫 How to reach me.  Email is sharper@wrightservicescorp.com
+- 📫 How to reach me.  Email is sharper@wrightservicecorp.com
 
 <!---
 steveharper0324/steveharper0324 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
